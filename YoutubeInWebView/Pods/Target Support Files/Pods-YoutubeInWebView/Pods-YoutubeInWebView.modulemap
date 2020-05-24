@@ -1,0 +1,6 @@
+framework module Pods_YoutubeInWebView {
+  umbrella header "Pods-YoutubeInWebView-umbrella.h"
+
+  export *
+  module * { export * }
+}
